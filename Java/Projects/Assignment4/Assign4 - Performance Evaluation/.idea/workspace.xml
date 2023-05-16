@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9b9e6dba-be8f-47a4-bb32-8d2ab97866dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../CS3100/Lecture Notes/Chapter 5.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CS3100/Lecture Notes/Chapter 5.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvaluationDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvaluationDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +24,10 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1RWZ3qWwc8sPiS7RrA117Ava1bL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -26,25 +37,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549300328025" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Owner/OneDrive/Documents/Github_Repositories/Java-Journey/Java/Projects/Assignment6/Assign6 - Dates Part 2",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Unit Tests">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,6 +94,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Driver" />
       <item itemvalue="JUnit.Unit Tests" />
@@ -119,26 +131,14 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1047" y="338" key="#Project_Structure" timestamp="1601927894759">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1047" y="338" key="#Project_Structure/-3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1601927894759" />
-    <state width="414" height="98" key="GridCell.Tab.0.bottom" timestamp="1601928278578">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="414" height="98" key="GridCell.Tab.0.bottom/-3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1601928278578" />
-    <state width="414" height="98" key="GridCell.Tab.0.center" timestamp="1601928278578">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="414" height="98" key="GridCell.Tab.0.center/-3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1601928278578" />
-    <state width="414" height="98" key="GridCell.Tab.0.left" timestamp="1601928278577">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="414" height="98" key="GridCell.Tab.0.left/-3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1601928278577" />
-    <state width="414" height="98" key="GridCell.Tab.0.right" timestamp="1601928278578">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="414" height="98" key="GridCell.Tab.0.right/-3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1601928278578" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
