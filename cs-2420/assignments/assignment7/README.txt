@@ -1,0 +1,1 @@
+This line of code adds a reverse edge for every forward edge in the graph but with an initial capacity of 0. In the context of the graph's adjacency list, this line ensures that for every direct edge from a source to a sink, there exists a corresponding reverse edge from sink back to source, but with no capacity.
